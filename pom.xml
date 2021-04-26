@@ -34,7 +34,7 @@
                          <uri>https://anypoint.mulesoft.com</uri>            
                          <username>saikumarkapu</username>
                          <password>Saikumar1595</password>
-                         <environment>DEV</environment>
+                         <environment>Sandbox</environment>
                          <applicationName>airindiaapi-cloudhub</applicationName> 
                          <muleVersion>4.3.0</muleVersion>
                          <workers>1</workers>
